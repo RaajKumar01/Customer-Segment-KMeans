@@ -43,12 +43,12 @@ This project performs customer segmentation using the K-Means clustering algorit
 
 Each color represents a unique cluster of customers:
 
-- **Red:** High income, high spending
-- **Yellow:** Low income, high spending
-- **Blue:** High income, low spending
-- **Green:** Average income and spending
-- **Brown:** Low income, low spending  
-- **Cyan points:** Centroids of the clusters
+- **Red:** High income, high spending  - Premium customers likely to respond well to exclusive offers.  
+- **Yellow:** Low income, high spending  - Brand-loyal or impulsive buyers despite low income.  
+- **Blue:** High income, low spending  - Conservative spenders or need targeted marketing.  
+- **Green:** Average income and spending  - Balanced income and spending customers.  
+- **Brown:** Low income, low spending  - Balanced income and spending customers.  
+- **Cyan points:** Centroids of the clusters  
 
 ---
 
